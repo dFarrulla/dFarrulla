@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @dFarrulla
-- 👀 I’m interested in learning new programming languages ​​and training my knowledge
-- 🌱 I’m currently learning in computing and I just entered the Senac college where I intend to graduate
-- 💞️ I’m looking to collaborate on as an apprentice I can collaborate on small projects initially
-- 📫 How to reach me... through my email or social networks
+- 👋 Fala galera, eu sou dfarrulla.
+- 👀 Procurando me desenvolver como front-end e UX/UI Design.
+- 🌱 Estou no segundo período de Análise e Desenvolvimento de Software.
+- 📫 Contato por email: contato1danielfarrulla@gmail.com.
 
 <div align="center">
   <a href="https://github.com/dfarrulla">
