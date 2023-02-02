@@ -1,6 +1,5 @@
-##    Fala galera, me chamo Daniel Farrulla e sou Desenvolvedor Front-end e UX/UI Designer
-- Estou cursando o segundo período de Análise e Desenvolvimento de Sistemas no Senac.
-- Contato por email: contato1danielfarrulla@gmail.com
+## Desenvolvedor Front-end e UX/UI Designer
+
 <div align="center">
   <a href="https://github.com/dfarrulla">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dfarrulla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
