@@ -1,4 +1,4 @@
-## Desenvolvedor Front-end e UX/UI Designer
+## Desenvolvedor em desenvolvimento
 
 <div align="center">
   <a href="https://github.com/dfarrulla">
