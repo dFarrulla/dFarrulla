@@ -2,18 +2,17 @@
 
 ## Sobre mim
 Olá, galera! Meu nome é Daniel Farrulla e sou Desenvolvedor Full Stack. Atualmente, estou cursando o terceiro período de Análise e Desenvolvimento de Sistemas no Senac. Estou sempre em busca de novos desafios e oportunidades de aprendizado.
-
 - Localização: Rio de Janeiro, Brasil
-- E-mail: [contato1danielfarrulla@gmail.com](mailto:contato1danielfarrulla@gmail.com)
-- LinkedIn: [linkedin.com/in/dev-daniel-farrulla](https://www.linkedin.com/in/dev-daniel-farrulla)
-- Instagram: [instagram.com/daniel_farrulla](https://instagram.com/daniel_farrulla)
-
+- 
+<div align="center">
+  <a href="https://github.com/dfarrulla">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dfarrulla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfarrulla&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+
 ## Habilidades Técnicas
-
 Aqui estão algumas das linguagens e tecnologias com as quais trabalho:
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
