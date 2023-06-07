@@ -7,8 +7,9 @@ Olá, galera! Meu nome é Daniel Farrulla e sou Desenvolvedor Full Stack. Atualm
 <div align="center">
 https://github-readme-stats.vercel.app/api?username=dFarrulla)](https://github.com/dFarrulla/github-readme-stats
 </div>
-
-
+<div align="center">
+ https://github-readme-stats.vercel.app/api?username=dFarrulla&show_icons=true&theme=radical
+</div>
 ## Habilidades Técnicas
 Aqui estão algumas das linguagens e tecnologias com as quais trabalho:
 <div style="display: inline_block"><br>
