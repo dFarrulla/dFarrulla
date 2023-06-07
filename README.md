@@ -12,7 +12,7 @@ Olá, galera! Meu nome é Daniel Farrulla e sou Desenvolvedor Full Stack. Atualm
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dfarrulla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfarrulla&layout=compact&langs_count=7&theme=tokyonight"/>
+
 </div>
 
 ## Habilidades Técnicas
@@ -41,5 +41,4 @@ Fique à vontade para entrar em contato comigo se tiver alguma dúvida, sugestã
 
 Sinta-se à vontade para interagir comigo nas redes sociais e conhecer mais sobre meus projetos. Vamos criar coisas incríveis juntos!
 
-![Snake animation](https://github.com/dFarrulla/dFarrulla/blob/output/github-contribution-grid-snake.svg)
-    
+
