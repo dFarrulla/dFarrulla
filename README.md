@@ -3,13 +3,19 @@
 ## Sobre mim
 Olá, galera! Meu nome é Daniel Farrulla e sou Desenvolvedor Full Stack. Atualmente, estou cursando o terceiro período de Análise e Desenvolvimento de Sistemas no Senac. Estou sempre em busca de novos desafios e oportunidades de aprendizado.
 - Localização: Rio de Janeiro, Brasil
-- 
-<div align="center">
-https://github-readme-stats.vercel.app/api?username=dFarrulla)](https://github.com/dFarrulla/github-readme-stats
-</div>
-<div align="center">
- https://github-readme-stats.vercel.app/api?username=dFarrulla&show_icons=true&theme=radical
-</div>
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=dFarrulla&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=dFarrulla&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=dFarrulla&show_icons=true" />
+</picture>
+
+
 ## Habilidades Técnicas
 Aqui estão algumas das linguagens e tecnologias com as quais trabalho:
 <div style="display: inline_block"><br>
