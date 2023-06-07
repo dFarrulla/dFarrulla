@@ -5,7 +5,7 @@ Olá, galera! Meu nome é Daniel Farrulla e sou Desenvolvedor Full Stack. Atualm
 - Localização: Rio de Janeiro, Brasil
 - 
 <div align="center">
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dFarrulla)](https://github.com/dFarrulla/github-readme-stats)
+https://github-readme-stats.vercel.app/api?username=dFarrulla)](https://github.com/dFarrulla/github-readme-stats
 </div>
 
 
