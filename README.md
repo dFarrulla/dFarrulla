@@ -8,11 +8,6 @@ Olá, galera! Meu nome é Daniel Farrulla e sou Desenvolvedor Full Stack. Atualm
 - LinkedIn: [linkedin.com/in/dev-daniel-farrulla](https://www.linkedin.com/in/dev-daniel-farrulla)
 - Instagram: [instagram.com/daniel_farrulla](https://instagram.com/daniel_farrulla)
 
-## Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dfarrulla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
 </div>
 
 ## Habilidades Técnicas
