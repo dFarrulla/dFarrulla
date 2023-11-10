@@ -1,7 +1,7 @@
 # Daniel Farrulla - Dashboard do Desenvolvedor
 
 ## Sobre mim
-"👋 Olá! Sou um desenvolvedor full-stack apaixonado por tecnologia. Atualmente, estou no 4º período do curso de desenvolvimento de software e tenho conhecimento em uma variedade de linguagens e tecnologias, incluindo Java, JavaScript, Python, Bancos de dados MySQL, Angular, CSS, HTML, Bootstrap, Angular, React Native, e noções de UX/UI.
+"👋 Olá! Sou um desenvolvedor full-stack apaixonado por tecnologia. Atualmente, estou no 4º período do curso de desenvolvimento de software e tenho conhecimento em uma variedade de linguagens e tecnologias, incluindo Figma, Java, JavaScript, Python, Bancos de dados MySQL, Angular, CSS, HTML, Bootstrap, Angular, React Native, e UX/UI Design.
 
 🚀 Tenho experiência no desenvolvimento de aplicativos e sites, desde a criação do back-end até a implementação de interfaces atraentes e responsivas. Adoro enfrentar desafios e encontrar soluções criativas para problemas complexos.
 
